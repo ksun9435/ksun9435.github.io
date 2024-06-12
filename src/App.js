@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       <h1>Hello World </h1>
       <iframe
+        width="560" 
+        height="315" 
         src='https://www.youtube.com/embed/FpB6TBtm5ZE?si=TGc68pRdzc5TaAQG'
         frameborder='0'
         allow='autoplay; encrypted-media'
